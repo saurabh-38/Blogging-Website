@@ -4,7 +4,6 @@
 > ## **TechStack used**
 
 - nodejs
-- mongodb
 - express js
 - bootstrap
 - lodash
@@ -16,7 +15,7 @@
 
 - npm init
 - npm i express 
-- npm --save-dev nodemon
+- npm i --save-dev nodemon
 - npm i --save lodash
 - npm run devStart app.js 
 

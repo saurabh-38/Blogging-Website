@@ -1,1 +1,2 @@
 # Blogging-Website
+FOR RUNNIG THE WEBSITE ON LOCAL SERVER
